@@ -1,0 +1,504 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300%2C400&ver=6.1.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite-2x.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\images\grav-share-sprite-2x.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\images\grav-share-sprite.png
+Content Type: image/png
+
+Uri: https://stats.wp.com/e-202316.js
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\e-202316.js
+Content Type: application/javascript
+
+Uri: https://www.claudiatenhoope.com/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/dashboard-en/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\dashboard-en\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/data-analysis/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\data-analysis\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/data-analytics/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\data-analytics\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/nl/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\nl\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/nl/dashboard/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\nl\dashboard\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/nl/data-analyse-op-maat/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\nl\data-analyse-op-maat\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/nl/data-analytics-nl/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\nl\data-analytics-nl\index.htm
+Content Type: text/html
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=7.10.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\google-analytics-dashboard-for-wp\assets\js\frontend-gtag.min.js
+Content Type: application/javascript
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.5.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\jetpack\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\jetpack\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\jetpack\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/themes/ClaudiaTenHoopev1/css/bootstrap.min.css?ver=3.3.6
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\themes\ClaudiaTenHoopev1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-content/themes/ClaudiaTenHoopev1/js/bootstrap.min.js?ver=3.3.6
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\themes\ClaudiaTenHoopev1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.claudiatenhoope.com/wp-content/themes/ClaudiaTenHoopev1/js/extra-functions.js?ver=6.1.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\themes\ClaudiaTenHoopev1\js\extra-functions.js
+Content Type: application/javascript
+
+Uri: https://www.claudiatenhoope.com/wp-content/themes/ClaudiaTenHoopev1/style.css?ver=6.1.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\themes\ClaudiaTenHoopev1\style.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/08/Logo_small1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\08\Logo_small1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/background1-minmin-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\background1-minmin-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/background1-minmin.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\background1-minmin.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/BeautyClinicHaarlem-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\BeautyClinicHaarlem-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/BeautyClinicHaarlem.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\BeautyClinicHaarlem.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Business-dashboard.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Business-dashboard.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Business-person-chart.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Business-person-chart.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Business-person-interactive.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Business-person-interactive.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Business-person-loop.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Business-person-loop.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Business-person-presentation.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Business-person-presentation.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Business-website.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Business-website.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-overview-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-overview-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-overview-1024x576.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-overview-1024x576.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-overview-300x169.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-overview-300x169.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-overview-768x432.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-overview-768x432.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-overview.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-overview.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-sales-1024x576.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-sales-1024x576.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-sales-300x169.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-sales-300x169.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-sales-768x432.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-sales-768x432.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Dashboard-sales.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Dashboard-sales.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Data-analysis-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Data-analysis-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Data-analysis.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Data-analysis.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Logo-small-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Logo-small-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Logo-small.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Logo-small.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Number-of-items-per-order-300x200.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Number-of-items-per-order-300x200.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Number-of-items-per-order.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Number-of-items-per-order.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Number-of-orders-and-ordersize-300x166.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Number-of-orders-and-ordersize-300x166.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Number-of-orders-and-ordersize.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Number-of-orders-and-ordersize.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Number-of-visits-300x170.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Number-of-visits-300x170.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Number-of-visits.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Number-of-visits.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Orders-per-channel-300x114.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Orders-per-channel-300x114.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Orders-per-channel-768x292.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Orders-per-channel-768x292.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Orders-per-channel.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Orders-per-channel.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Portfolio-data-analytics-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Portfolio-data-analytics-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Portfolio-data-analytics.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Portfolio-data-analytics.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Profile-width-500px-min-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Profile-width-500px-min-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Profile-width-500px-min.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Profile-width-500px-min.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Ratio-unique-visitors-300x166.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Ratio-unique-visitors-300x166.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Ratio-unique-visitors.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Ratio-unique-visitors.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Sales-funnel-performance-1024x434.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Sales-funnel-performance-1024x434.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Sales-funnel-performance-300x127.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Sales-funnel-performance-300x127.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Sales-funnel-performance-768x326.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Sales-funnel-performance-768x326.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/11/Sales-funnel-performance.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\11\Sales-funnel-performance.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Business-dashboard.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Business-dashboard.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Business-person-chart.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Business-person-chart.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Business-person-interactive.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Business-person-interactive.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Business-person-loop.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Business-person-loop.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Business-person-presentation.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Business-person-presentation.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Business-website.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Business-website.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-1-1024x345.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-1-1024x345.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-1-300x101.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-1-300x101.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-1-768x259.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-1-768x259.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-1024x345.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-1024x345.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-300x101.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-300x101.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime-768x259.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime-768x259.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/CLV-and-lifetime.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\CLV-and-lifetime.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Correlation-plot-characteristics-300x212.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Correlation-plot-characteristics-300x212.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Correlation-plot-characteristics.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Correlation-plot-characteristics.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Prediction-model-1024x462.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Prediction-model-1024x462.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Prediction-model-300x135.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Prediction-model-300x135.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Prediction-model-768x346.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Prediction-model-768x346.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2017/12/Prediction-model.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2017\12\Prediction-model.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2023/01/Claudia-handwritten-black-1.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2023\01\Claudia-handwritten-black-1.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-content/uploads/2023/01/Claudia-handwritten-black.png
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-content\uploads\2023\01\Claudia-handwritten-black.png
+Content Type: image/png
+
+Uri: https://www.claudiatenhoope.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.claudiatenhoope.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.claudiatenhoope.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.claudiatenhoope.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.claudiatenhoope.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fdashboard-en%2F
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fdashboard-en%2F&format=xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fdata-analysis%2F
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fdata-analysis%2F&format=xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fdata-analytics%2F
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fdata-analytics%2F&format=xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fnl%2Fdashboard%2F
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fnl%2Fdashboard%2F&format=xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fnl%2Fdata-analyse-op-maat%2F
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fnl%2Fdata-analyse-op-maat%2F&format=xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fnl%2Fdata-analytics-nl%2F
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.claudiatenhoope.com%2Fnl%2Fdata-analytics-nl%2F&format=xml
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.claudiatenhoope.com/wp-json/wp/v2/pages/351
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\wp\v2\pages\351
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/wp/v2/pages/363
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\wp\v2\pages\363
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/wp/v2/pages/374
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\wp\v2\pages\374
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/wp/v2/pages/380
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\wp\v2\pages\380
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/wp/v2/pages/392
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\wp\v2\pages\392
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/wp-json/wp/v2/pages/416
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\wp-json\wp\v2\pages\416
+Content Type: application/json
+
+Uri: https://www.claudiatenhoope.com/xmlrpc.php?rsd
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-XYFZ47G0XZ
+File Name: C:\Users\udzum\Desktop\WebProjects\porfolio\clearcopy\www.claudiatenhoope.com\gtag\js
+Content Type: application/javascript
+
